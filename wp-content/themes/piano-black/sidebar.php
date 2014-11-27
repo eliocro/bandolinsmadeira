@@ -14,10 +14,10 @@
 </div>
 
 <div id="highlights">
-	<h3 class="side-title">ON FACEBOOK</h3>
-	<div style="margin-left: -10px; width: 292px;">
-		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fbandolinsmadeira&amp;width=290&amp;height=400&amp;colorscheme=dark&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true&amp;appId=293769500831812" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:290px; height:400px;" allowTransparency="true"></iframe>
-	</div>
+  <h3 class="side-title">ON FACEBOOK</h3>
+  <div style="margin-left: -10px; width: 292px;">
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fbandolinsmadeira&amp;width=290&amp;height=620&amp;colorscheme=dark&amp;show_faces=true&amp;header=false&amp;stream=true&amp;show_border=false&amp;appId=1539205042963758" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:290px; height:620px;" allowTransparency="true"></iframe>
+  </div>
 </div>
 
 <div id="highlights">
