@@ -44,9 +44,9 @@ object { display:block; margin:0 auto; }
 
 /*  ------ layout ------------------------ */
 
-#wrapper { background:url(img/back.php) no-repeat center top fixed; }
+/* #wrapper { background:url(img/back1.gif); }*/
 #contents { width:959px; margin:0 auto; text-align:left; }
-#header { background:url(img/top.png) no-repeat bottom; height:160px; }
+#header { background:url(/wp-content/uploads/images/top.png) no-repeat bottom; height:160px; }
 #middle-contents { background:url(img/side.png) repeat-y; padding-bottom:50px; }
 #left-col { float:left; display:inline; width:584px; margin:0 0 0 5px; }
 #right-col { float:right; display:inline; width:330px; margin: 30px 5px 0 0; }         /* margin:70px 5px 0 0; */

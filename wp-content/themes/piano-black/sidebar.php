@@ -22,7 +22,7 @@
 
 <div id="highlights">
   <h3 class="side-title">XXVIII ENCONTRO</h3>
-  <img src="<?php bloginfo('template_url'); ?>/img/encontro_regional_2013.jpg" >
+  <img src="/wp-content/uploads/images/encontro_regional_2013.jpg" >
 </div>
 
 <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('top') ) : ?>
@@ -77,7 +77,7 @@
  <?php endif; ?>
  </div>
 
- <center><img src="<?php bloginfo('template_url'); ?>/img/abm.png" ></center>
+ <center><img src="/wp-content/uploads/images/abm.png" ></center>
 
  <div class="side-box">
   <ul id="copyrights">
